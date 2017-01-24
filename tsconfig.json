@@ -1,0 +1,22 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "outDir": "./dist",
+    "target": "es5",
+    "module": "commonjs",
+    "sourceMap": true,
+    "lib": [
+      "es2015",
+      "es2015.promise"
+    ],
+    "types": [
+      "node"
+    ],
+    "allowJs": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true
+  },
+  "include": [
+    "./src/**/*.ts"
+  ]
+}
