@@ -1,2 +1,1 @@
---compilers ts:ts-node/register test/**/*.ts
---require espower-ts-node
+--compilers ts:espower-typescript/guess test/**/**.ts

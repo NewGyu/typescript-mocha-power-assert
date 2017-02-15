@@ -14,7 +14,7 @@
     "@types/mocha": "^2.2.38",
     "@types/node": "^7.0.0",
     "@types/power-assert": "^1.4.29",
-    "espower-ts-node": "^1.0.3",
+    "espower-typescript": "^7.0.0",
     "mocha": "^3.2.0",
     "power-assert": "^1.4.2",
     "typescript": "^2.1.5"
